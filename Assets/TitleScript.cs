@@ -15,7 +15,7 @@ public class TitleScript : MonoBehaviour
     {
         DontDestroyOnLoad(transform.gameObject);
         DontDestroyOnLoad(this);
-        StartCoroutine(getRequest("https://immerse-prep.herokuapp.com/create-interview/0")); 
+        StartCoroutine(getRequest("https://immerse-prep.herokuapp.com/create-interview/0"));
     }
 
     // Update is called once per frame
