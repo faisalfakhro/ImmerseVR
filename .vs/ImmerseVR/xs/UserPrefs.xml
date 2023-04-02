@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DFEDE135-385A-C15E-76D0-C94E0179D2F7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TitleScript.cs">
+    <Files>
+      <File FileName="Assets/TitleScript.cs" Line="10" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImmerseVR" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="TitleScript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3c8315db-9a13-413e-a977-e9fd54197360" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
